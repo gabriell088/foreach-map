@@ -1,0 +1,1 @@
+/* Qual é a utilidade de forEach() se ele não retornar nenhum valor? R=O método forEach() é útil para iterar sobre os elementos de um array e realizar ações, como impressão, sem a necessidade de retornar valores.*/ 

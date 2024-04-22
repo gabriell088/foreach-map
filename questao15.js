@@ -1,0 +1,1 @@
+/* Qual é o propósito principal do método map()?R=O propósito principal do método map() é aplicar uma função a cada elemento de um array e retornar um novo array contendo os resultados dessas aplicações*/

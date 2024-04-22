@@ -1,0 +1,1 @@
+/*  O que acontece se você chamar map() em um array vazio?R=Se você chamar map() em um array vazio, ele retornará um array vazio, pois não há elementos para aplicar a função de callback*/

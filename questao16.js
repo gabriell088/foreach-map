@@ -1,0 +1,2 @@
+/*E se a função de callback fornecida ao método map() não 
+retornar nada? O que será retornado no novo array? R=Se a função de callback fornecida ao método map() não retornar nada, o novo array resultante terá valores undefined nas posições correspondentes aos elementos do array original.*/ 

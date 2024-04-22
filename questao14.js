@@ -1,0 +1,1 @@
+/*É possível encadear map() e forEach() juntos? R=Sim, é possível encadear map() e forEach() juntos*/
